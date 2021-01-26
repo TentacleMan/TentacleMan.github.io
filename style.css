@@ -1,0 +1,142 @@
+BODY {
+   background-color: #000000; 
+   color: #CCCCCC;
+   margin-left : 7%;
+   margin-right : 10%;  
+}
+
+H1 {
+   width: 90%;
+   font-family: Verdana, Arial, Helvetica; 
+   color: #CCCCCC;
+   background-color: #444444;
+   font-size: 22pt; 
+   font-weight: bold;
+   font-style: normal;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #CCCCCC;
+   padding: 1%;
+}
+
+H2 {
+   width: 90%;
+   font-family: Verdana, Arial, Helvetica; 
+   color: #CCCCCC;
+   background-color: #444444;  
+   font-size: 14pt; 
+   font-weight: bold;
+   font-style: normal;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #CCCCCC;
+   padding: 1%;
+   margin-top: 5%;
+}
+
+H3 {
+   font-family: Verdana, Arial, Helvetica; 
+   color: #111111;
+   font-size: 10pt; 
+   font-weight: bold;
+   font-style: normal;
+}
+
+A:link {
+   color: #EEEEEE;
+}
+A:hover { 
+   color: #FFCCCC;
+}
+A:visited { 
+   color: #FFCCCC;
+}
+A:active { 
+   color: #FFFFFF;
+}
+
+DIV.center {
+   text-align: center;
+}
+
+DIV.light {
+   width: 90%;
+   background-color: #999999;
+	 padding-left: 4px;
+	 padding-bottom: 2px;
+}
+
+P {
+   width: 90%;
+}
+
+TABLE.meny {
+   width: 92%;
+   background-color: #444444;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #CCCCCC;
+}
+
+TABLE.h1tab {
+   width: 92%; 
+   background-color: #444444;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #CCCCCC;
+   padding: 1%;
+	 margin-top: 2%;
+}
+
+TD.tiny {
+   font-size: 8pt;
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+}
+
+TD.padded {
+   padding: 1%;
+}
+
+TD.ralign {
+   text-align: right;
+}
+
+.center {
+   text-align: center;
+   font-family: Verdana, Arial, Helvetica; 
+   font-size: 14pt; 
+   font-weight: bold;
+   font-style: normal;
+}
+
+.center_small {
+   text-align: center;
+   font-family: Verdana, Arial, Helvetica; 
+   font-size: 12pt; 
+   font-weight: normal;
+   font-style: italic;
+}
+
+.tiny {
+   color: #111111;
+   font-family: Verdana, Arial Helvetica;
+	 font-size: 8pt;
+	 font-weight: normal;
+	 font-style: normal;
+}
+
+
+.h1like {
+   /* width: 90%; */
+   font-family: Verdana, Arial, Helvetica; 
+   color: #CCCCCC;
+   background-color: #444444;
+   font-size: 22pt; 
+   font-weight: bold;
+   font-style: normal;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #CCCCCC;
+}
